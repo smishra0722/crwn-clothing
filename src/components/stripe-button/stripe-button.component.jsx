@@ -11,7 +11,7 @@ const StripeCheckoutButton = ({price, currentUser}) => {
     }
     return (
         <StripeCheckout 
-          name={currentUser.displayName}
+          name='Crown Clothing'
           label='Pay Now'
           image='https://sendeyo.com/up/d/f3eb2117da'
           stripeKey={publishableKey}
