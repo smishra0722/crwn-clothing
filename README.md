@@ -1,6 +1,6 @@
 # crwn-clothing
 
-Crown CLothing is an E-Commerce Site for buying clothes. It has simple and minimal interface with Firebase integration.
+Crown CLothing is an E-Commerce Site for buying clothes. It has simple and minimal interface with Firebase integration and with stripe payment.
 App state is based on REDUX.
 
 ## Screenshots
